@@ -1,0 +1,23 @@
+{
+  "name": "msc-scroll-fader",
+  "version": "1.0.0",
+  "description": "<msc-scroll-fader /> is a high-performance utility web component designed to enhance the visual presentation of scrollable containers. By leveraging modern CSS scroll-driven animations, it automatically applies smooth, dynamic edge fading gradients to indicate overflow content, significantly improving user experience without compromising native scrolling fluidness. The component adapts seamlessly to different layout structures via the direction attribute. By specifying either vertical or horizontal, developers can instantly reconfigure the internal scrolling axis and masking vectors. As users scroll through the content, the edge indicators dynamically adjust their visibility in real time, providing intuitive visual cues that guide the user's eye and maintain design continuity across diverse viewport sizes.",
+  "keywords": [
+    "web"
+  ],
+  "homepage": "https://github.com/meistudioli/msc-scroll-fader#readme",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-scroll-fader/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-scroll-fader.git"
+  },
+  "license": "MIT",
+  "author": "Paul Li",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
